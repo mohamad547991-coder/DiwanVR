@@ -1,0 +1,11 @@
+apply plugin: 'com.android.library'
+
+android {
+    namespace "org.diwan.training.handtracking"
+    compileSdk getProperty("unity.compileSdkVersion") as int
+    buildToolsVersion = getProperty("unity.buildToolsVersion")
+    defaultConfig {
+        minSdk getProperty("unity.minSdkVersion") as int
+        targetSdk getProperty("unity.targetSdkVersion") as int
+    }
+}

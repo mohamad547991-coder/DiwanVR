@@ -1,0 +1,1 @@
+OfficeHardware030.blend: computer, printer and seating models. Accessories: UnityProject/Assets/Diwan/Editor/OfficeAccessories040.cs. Textures: office_hd040.py (adjust its output directory before running).

@@ -1,0 +1,10 @@
+# Keep source fingerprints stable across Windows clones.
+* -text
+*.cs diff
+*.py diff
+*.ps1 diff
+*.md diff
+*.json diff
+*.unity diff
+*.asset diff
+*.meta diff

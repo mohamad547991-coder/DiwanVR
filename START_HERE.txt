@@ -1,0 +1,6 @@
+DiwanVR 0.4.4 source
+Read README.md for current verification status and requirements.
+Close the Unity editor, then run Prepare_Quest_0.4.4.cmd.
+An APK is only ready after the validation, build and APK verification succeed.
+This source has not yet passed the new Unity/Quest hardware tests.
+GitHub target: mohamad547991-coder/DiwanVR (private).
